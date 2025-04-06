@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github User Assesment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="github_username">GitHub Username</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="username">username</string>
+    <string name="bio_text">Bio Text</string>
+    <string name="_0_followers">0 Followers</string>
+    <string name="_0_following">0 Following</string>
+</resources>
